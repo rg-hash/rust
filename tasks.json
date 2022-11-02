@@ -1,0 +1,12 @@
+{
+ 
+  "setupTasks": [],
+
+
+    "sh run.sh": {
+      "name": "sh run.sh",
+      "command": "sh run.sh",
+      "runAtStart": true
+    }
+  }
+}
